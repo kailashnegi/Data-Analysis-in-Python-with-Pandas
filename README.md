@@ -10,4 +10,5 @@ Below order of Jupyter notebook should be followed while watching video series.
 - How do I select pandas Series from a Data Frame
 - How do I rename columns in a pandas Data Frame
 - How do I remove columns from a pandas Data Frame
+- How do I filter rows of a pandas Data Frame by column value
 
